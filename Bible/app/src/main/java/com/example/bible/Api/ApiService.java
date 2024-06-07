@@ -13,7 +13,7 @@ import retrofit2.http.Query;
 public interface ApiService {
 
     @Headers({
-            "X-RapidAPI-Key: 061787ae7bmshe04c585b9943059p1b9411jsn904164397ee8",
+            "X-RapidAPI-Key: e546d74506msh486419eacadecafp1c6302jsnd96ef8bf299b",
             "X-RapidAPI-Host: catholic-bible.p.rapidapi.com"
     })
     @GET("bible/books")
